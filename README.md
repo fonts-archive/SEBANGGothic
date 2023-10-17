@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'SEBANG Gothic';
@@ -12,7 +12,7 @@ font-family: 'SEBANG Gothic';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/SEBANGGothic/SEBANGGothic.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/SEBANGGothic/SEBANGGothic.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -51,4 +51,16 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SEBANGGothic/SEBANGGothic-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SEBANGGothic/SEBANGGothic-Bold.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+세방그룹 창립 55주년을 맞이하여 세방그룹 폰트를 개발하였습니다.  
+
+SEBANG 그룹사의 아이덴티티를 담은 폰트로서 개인, 기업 등 모든 사용자에게  
+
+자유롭게 사용가능한 폰트입니다.
 ```
